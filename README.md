@@ -1,6 +1,6 @@
 # Assignment-1
 <b>Name:</b> Lakshmi Ankapur Somashekar<br>
-<b>Email-id:</b> LA1064@wildcats.unh.edu
+<b>Email-id:</b> LA1064@wildcats.unh.edu<br>
 <i>This Project is for Assignment 1.</i>
 
 
